@@ -46,7 +46,7 @@ h2 {
 }
 
 .name {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 input{
@@ -67,7 +67,7 @@ input{
 }
 
 .email {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .email>input {
     border: 1px solid gray;
@@ -76,7 +76,7 @@ input{
     margin-top: 15px;
 }
 .num {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .num>input {
     border: 1px solid gray;
@@ -85,7 +85,7 @@ input{
     margin-top: 15px;
 }
 .message {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .message>textarea {
     font-size: 18px;
